@@ -1,2 +1,1 @@
 # Installations
-Installation scripts
